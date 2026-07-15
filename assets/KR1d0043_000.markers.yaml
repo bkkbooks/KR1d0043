@@ -74,6 +74,8 @@ markers:
       ', id: KR1d0043_krp_000-bkkkrnewl12}
   - {type: line-break, offset: 142, content: '', id: KR1d0043_WYG_000-1b04}
   - {type: indent, offset: 142, content: 　　　　, id: KR1d0043_krp_000-bkkind12}
+  - {type: substitution, offset: 144, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
+  - {type: substitution, offset: 145, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19870}}
   - {type: 'kr:newline', offset: 159, content: '
 
       ', id: KR1d0043_krp_000-bkkkrnewl13}
@@ -113,6 +115,7 @@ markers:
       ', id: KR1d0043_krp_000-bkkkrnewl20}
   - {type: line-break, offset: 261, content: '', id: KR1d0043_WYG_000-2a03}
   - {type: indent, offset: 261, content: 　　　　, id: KR1d0043_krp_000-bkkind19}
+  - {type: substitution, offset: 265, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: 'kr:newline', offset: 278, content: '
 
       ', id: KR1d0043_krp_000-bkkkrnewl21}
@@ -123,6 +126,8 @@ markers:
       ', id: KR1d0043_krp_000-bkkkrnewl22}
   - {type: line-break, offset: 295, content: '', id: KR1d0043_WYG_000-2a05}
   - {type: indent, offset: 295, content: 　　　　, id: KR1d0043_krp_000-bkkind21}
+  - {type: substitution, offset: 308, original: 强, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17538}}
+  - {type: substitution, offset: 310, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 312, content: '
 
       ', id: KR1d0043_krp_000-bkkkrnewl23}
@@ -184,4 +189,4 @@ markers:
 
       ', id: KR1d0043_krp_000-bkkkrnewl31}
   back: []
-hash: sha256:481872eaa52f06399b8731633e51ccb7e90321f8182dcf9304d01dedfa0d824a
+hash: sha256:b222153ffc7405074fb0acc02e8e3afe51e9e4e6f07e8dd84d104ee2b2eafbbc
