@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1d0043_000.yaml, hash: 'sha256:bdd537b40482515654240fee9d064371cd4d8b5362809388f046d082f4e0698a'}
   - {seq: 1, filename: KR1d0043_001.yaml, hash: 'sha256:1d4239b4629e885a35bf86f68f33cbb896ae24b85098ed54fb925bf52a05b43a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1d0043_000.markers.yaml, hash: 'sha256:b222153ffc7405074fb0acc02e8e3afe51e9e4e6f07e8dd84d104ee2b2eafbbc'}
-  - {seq: 1, role: markers, filename: assets/KR1d0043_001.markers.yaml, hash: 'sha256:362bed99d1fe03242d6bd6a5e7958b21dc1a286e54c14fa80a6f3bbc9cec0c76'}
+  - {seq: 0, role: markers, filename: assets/KR1d0043_000.markers.yaml, hash: 'sha256:73e84f22360cc1f804f58dd8a2f80be3e6b56ffdebfcf6fe2bfb652a116a4da4'}
+  - {seq: 1, role: markers, filename: assets/KR1d0043_001.markers.yaml, hash: 'sha256:248f80fbce0a7ca19ed92c9dfa52a0c452805d12ed182f71cfb3414e64bc6cc4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 補饗禮
   type: section
   level: 1
-hash: sha256:0f27e213b9dddfc4e86838733610be7d84b8de99298c7f4aa32474ca0193a0c8
+hash: sha256:778cb705b20e4ad40eba2c22787018c770d92a668281c8e42f9042be95079dc0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
